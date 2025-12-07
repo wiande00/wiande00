@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm William
 
-<!--
-**wiande00/wiande00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Swedish engineering student based in Stockholm, passionate about the startup world and early in my journey of building cool things and seeing them shipped and used.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- Automating insurance pipelines with AI  
+- Experimenting with AI-driven CAD generation  
+- Learning and improving my development skills to build something impactful in the future
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Tech I Use
+- **Main stack:** Python, Java, MATLAB  
+- **Currently learning:** React, TypeScript, JavaScript, HTML & CSS
+
+## 📬 How to Reach Me
+Send me a message on **LinkedIn** — it's the easiest way to get in touch!
